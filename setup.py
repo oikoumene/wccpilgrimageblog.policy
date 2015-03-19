@@ -34,6 +34,7 @@ setup(name='wcc.pilgrimagepolicy',
           'plone.app.multilingual',
           'plone.multilingualbehavior',
           'wcc.pilgrimagetheme',
+          'collective.vaporisation'
           # -*- Extra requirements: -*-
       ],
       extras_require={
