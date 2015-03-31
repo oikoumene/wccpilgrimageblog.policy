@@ -1,16 +1,16 @@
-wcc.pilgrimagepolicy Installation
----------------------------------
+wccpilgrimageblog.policy Installation
+-------------------------------------
 
-To install wcc.pilgrimagepolicy using zc.buildout and the plone.recipe.zope2instance
+To install wccpilgrimageblog.policy using zc.buildout and the plone.recipe.zope2instance
 recipe to manage your project, you can do this:
 
-* Add ``wcc.pilgrimagepolicy`` to the list of eggs to install, e.g.:
+* Add ``wccpilgrimageblog.policy`` to the list of eggs to install, e.g.:
 
     [buildout]
     ...
     eggs =
         ...
-        wcc.pilgrimagepolicy
+        wccpilgrimageblog.policy
 
 * Re-run buildout, e.g. with:
 

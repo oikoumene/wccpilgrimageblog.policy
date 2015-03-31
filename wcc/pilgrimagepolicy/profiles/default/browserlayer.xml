@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<layers>
-    <layer name="wcc.pilgrimagepolicy"
-        interface="wcc.pilgrimagepolicy.interfaces.IProductSpecific" />
-</layers>

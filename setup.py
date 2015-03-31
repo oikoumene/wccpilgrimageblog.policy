@@ -3,9 +3,9 @@ import os
 
 version = '0.5'
 
-setup(name='wcc.pilgrimagepolicy',
+setup(name='wccpilgrimageblog.policy',
       version=version,
-      description="WCC Pilgrimage Policy",
+      description="WCC Pilgrimage Blog Policy",
       long_description=open("README.rst").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.rst")).read(),
       # Get more strings from
@@ -21,7 +21,7 @@ setup(name='wcc.pilgrimagepolicy',
       url='http://github.com/afterfivetech/',
       license='gpl',
       packages=find_packages(),
-      namespace_packages=['wcc'],
+      namespace_packages=['wccpilgrimageblog'],
       include_package_data=True,
       zip_safe=False,
       install_requires=[
