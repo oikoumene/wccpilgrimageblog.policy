@@ -32,7 +32,7 @@ setup(name='wccpilgrimageblog.policy',
           'plone.app.referenceablebehavior',
           'collective.dexteritytextindexer',
           'plone.app.multilingual',
-          'plone.multilingualbehavior',
+          # 'plone.multilingualbehavior',
           'wccpilgrimageblog.theme',
           'collective.vaporisation'
           # -*- Extra requirements: -*-
