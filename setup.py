@@ -34,7 +34,9 @@ setup(name='wccpilgrimageblog.policy',
           'plone.app.multilingual',
           'plone.multilingualbehavior',
           'wccpilgrimageblog.theme',
-          'collective.vaporisation'
+          'collective.vaporisation',
+          'cs.auth.facebook',
+          'cs.auth.twitter'
           # -*- Extra requirements: -*-
       ],
       extras_require={
